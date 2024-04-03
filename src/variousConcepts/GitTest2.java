@@ -15,6 +15,8 @@ public class GitTest2 {
 	
 	public static void printMe1() {
 		System.out.println("git test");
+		System.out.println("git test");
+		System.out.println("git test");
 	}
 	
 	public static void printMe2() {
